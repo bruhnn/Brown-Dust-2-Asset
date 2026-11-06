@@ -1,4 +1,4 @@
-cutscene_char061092_A.png
+cutscene_char061092_a.png
 size:2048,2048
 filter:Linear,Linear
 B_Tail_ribbon1
@@ -280,7 +280,7 @@ bounds:1341,1998,53,45
 a_upperbody_shadow_4
 bounds:659,827,55,48
 
-cutscene_char061092_A_2.png
+cutscene_char061092_a_2.png
 size:2048,2048
 filter:Linear,Linear
 B_Tail
