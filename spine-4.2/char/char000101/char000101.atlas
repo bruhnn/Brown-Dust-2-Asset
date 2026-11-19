@@ -1,0 +1,126 @@
+char000101.png
+size:2048,1024
+filter:Linear,Linear
+Cloak_1
+bounds:1421,283,391,458
+rotate:90
+Cloak_2
+bounds:1057,226,448,549
+rotate:90
+Lower  Body_1
+bounds:600,349,325,275
+rotate:90
+Lower  Body_2
+bounds:3,490,173,149
+Lower  Body_3
+bounds:254,308,133,151
+rotate:90
+Lower  Body_4
+bounds:261,253,228,229
+rotate:90
+Lower  Body_5
+bounds:674,73,601,247
+rotate:90
+arm(L)_1
+bounds:1777,396,224,110
+arm(L)_2
+bounds:285,437,131,148
+offsets:0,0,134,148
+arm_2(R)
+bounds:1572,491,168,183
+belt
+bounds:2,638,206,36
+offsets:2,0,208,36
+chest
+bounds:891,293,300,381
+rotate:180
+chin_2
+bounds:473,586,88,46
+rotate:90
+clothes_1
+bounds:1740,610,64,48
+rotate:90
+clothes_2
+bounds:1109,616,86,58
+clothes_3
+bounds:1193,635,51,39
+offsets:0,0,51,40
+eye skill_1
+bounds:804,661,13,13
+offsets:1,1,15,15
+eye skill_2
+bounds:634,661,13,13
+offsets:1,1,15,15
+eye skill_3
+bounds:1786,639,35,35
+eye skill_4
+bounds:1332,639,35,35
+eye_1
+bounds:209,654,17,20
+eye_2
+bounds:1002,654,16,20
+eyebrow skill_1
+bounds:1433,655,36,19
+eyebrow skill_2
+bounds:1364,661,40,13
+eyebrow2_1
+bounds:1405,659,39,15
+eyebrow2_2
+bounds:2,662,39,12
+eyebrow_1
+bounds:42,665,35,9
+eyebrow_2
+bounds:228,662,31,12
+face_close
+bounds:1819,494,190,180
+face_nomal
+bounds:1193,494,190,180
+face_skill2
+bounds:503,483,201,191
+hair_1
+bounds:1151,609,26,71
+offsets:0,1,26,72
+rotate:90
+hair_2
+bounds:406,369,58,99
+hair_3
+bounds:904,580,94,105
+rotate:90
+hair_4
+bounds:653,629,45,116
+rotate:90
+hair_5
+bounds:151,535,50,115
+hair_6
+bounds:97,383,62,105
+hair_7
+bounds:1385,599,144,75
+hand(L)_1
+bounds:1562,621,48,53
+hand(L)_3
+bounds:727,603,52,46
+offsets:0,3,52,49
+hand(L)_4
+bounds:599,432,96,80
+offsets:0,0,104,80
+hand(L)_n_finger_04_re
+bounds:511,644,60,30
+hand(R)_2
+bounds:1130,352,114,163
+hand(R)_4
+bounds:2,399,92,99
+hand(R)_finger_1_2_re
+bounds:1963,639,35,42
+rotate:90
+hand_p_re
+bounds:779,647,23,27
+offsets:0,3,23,30
+leg_L
+bounds:370,16,364,658
+offsets:1,0,365,658
+leg_R
+bounds:2,2,368,672
+sword
+bounds:1583,114,237,446
+offsets:0,0,237,447
+rotate:180

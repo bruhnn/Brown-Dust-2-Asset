@@ -1,0 +1,270 @@
+npc_ellin.png
+size:2048,512
+filter:Linear,Linear
+Eyebrow__L
+bounds:234,293,22,6
+offsets:2,2,25,9
+Eyebrow__R
+bounds:670,286,29,13
+offsets:2,2,32,16
+Face1
+bounds:1717,141,158,166
+rotate:270
+Face_hair_1
+bounds:107,73,144,167
+rotate:270
+Face_hair_2
+bounds:2,38,39,75
+Face_hair_3
+bounds:306,271,28,139
+rotate:90
+Left hair_1
+bounds:1876,28,43,74
+Left hair_2
+bounds:1035,9,118,100
+offsets:0,5,118,105
+Left hair_3
+bounds:390,53,26,53
+Left hair_4
+bounds:539,234,35,42
+Left hair_5
+bounds:1668,26,75,60
+Right hair_1
+bounds:447,276,23,115
+rotate:90
+Right hair_2
+bounds:299,15,54,113
+Right hair_3
+bounds:414,20,65,122
+Right hair_4
+bounds:1164,17,34,94
+offsets:2,0,36,96
+arm L_A1
+bounds:750,70,54,101
+rotate:90
+arm L_hand race1
+bounds:1252,242,72,57
+offsets:0,0,72,58
+arm L_hand race2
+bounds:1997,105,49,61
+offsets:1,1,52,63
+arm L_hand race_back1
+bounds:1686,60,70,55
+arm L_hand race_back2
+bounds:1090,241,48,58
+offsets:1,1,50,60
+arm L_hand_1
+bounds:1604,67,112,188
+rotate:270
+arm L_hand_finger_1
+bounds:1231,186,33,51
+arm L_hand_finger_2
+bounds:191,41,18,59
+offsets:0,3,18,62
+arm L_hand_finger_3
+bounds:1546,54,17,36
+offsets:0,0,17,37
+arm L_puff_1
+bounds:250,85,95,123
+arm L_puff_back1
+bounds:750,126,19,20
+offsets:1,1,21,22
+arm L_puff_back2
+bounds:1525,141,14,22
+offsets:1,1,16,24
+arm L_race1
+bounds:1041,77,60,146
+rotate:90
+arm L_ribbon_1
+bounds:1974,123,21,35
+arm L_ribbon_2
+bounds:97,100,28,39
+arm L_ribbon_3
+bounds:1454,73,17,31
+arm R_hand race1
+bounds:27,69,63,78
+rotate:90
+arm R_hand race_back1
+bounds:560,236,43,57
+offsets:0,1,43,58
+arm R_hand_1
+bounds:704,278,24,21
+offsets:1,1,26,23
+arm R_hand_2
+bounds:403,249,30,21
+offsets:1,1,32,23
+arm R_hand_3
+bounds:459,236,18,18
+offsets:1,1,20,20
+arm R_hand_4
+bounds:724,92,231,124
+rotate:180
+arm R_hand_5
+bounds:1675,282,17,17
+offsets:1,1,19,19
+arm R_puff_1
+bounds:641,95,107,115
+arm R_puff_back1
+bounds:935,249,24,17
+offsets:1,1,26,19
+arm R_puff_back2
+bounds:1326,281,18,18
+offsets:1,1,20,20
+arm R_race1
+bounds:594,54,72,102
+arm R_race2
+bounds:979,18,36,86
+offsets:0,1,37,87
+arm R_ribbon_1
+bounds:1885,199,19,33
+arm R_ribbon_2
+bounds:1725,283,29,16
+arm R_ribbon_3
+bounds:1524,252,28,24
+arm R_ribbon_4
+bounds:247,49,26,42
+breast L race_1
+bounds:1997,40,35,63
+offsets:0,0,36,63
+breast R race_1
+bounds:1015,44,24,56
+breast R race_2
+bounds:4,116,149,71
+breast ribbon_1
+bounds:1505,271,55,28
+breast ribbon_2
+bounds:1910,47,28,42
+breast ribbon_3
+bounds:904,48,34,45
+breast_full body
+bounds:1252,112,187,287
+rotate:270
+breast_skin_L
+bounds:1141,231,68,111
+rotate:90
+breast_skin_R
+bounds:347,106,75,112
+offsets:0,0,77,113
+rotate:90
+close_eye_R
+bounds:445,256,33,29
+offsets:1,1,35,31
+close_eye_l
+bounds:1426,76,26,28
+offsets:1,1,28,30
+ear_L_1
+bounds:1694,264,29,35
+offsets:1,1,32,37
+eye white_R_1
+bounds:507,246,30,30
+offsets:1,1,32,32
+eye white_R_2
+bounds:890,152,27,28
+eye_L_1
+bounds:2,173,12,20
+offsets:1,1,14,22
+eye_R_1
+bounds:835,162,19,22
+eyeline_normal_L
+bounds:788,182,33,21
+eyeline_normal_R
+bounds:890,130,25,20
+f_side_hiar_1
+bounds:1201,66,50,186
+rotate:90
+f_side_hiar_2
+bounds:2006,203,29,96
+front_hair_1
+bounds:946,25,33,87
+front_hair_2
+bounds:843,26,33,80
+front_hair_3
+bounds:480,31,33,89
+front_hair_4
+bounds:644,30,50,82
+front_hair_5
+bounds:1952,14,43,99
+hair back_1
+bounds:1441,8,118,159
+offsets:0,0,118,162
+rotate:90
+hair back_2
+bounds:211,32,38,113
+hair back_3
+bounds:1381,2,143,211
+rotate:90
+hair back_4
+bounds:1315,24,81,110
+offsets:0,1,81,113
+rotate:90
+hair back_5
+bounds:355,9,54,98
+hair back_6
+bounds:1865,159,147,140
+offsets:0,0,147,141
+hair back_7
+bounds:732,255,44,165
+rotate:90
+hair back_8
+bounds:1376,106,63,148
+rotate:90
+leg_L_1_race back1
+bounds:1749,38,115,42
+leg_L_1_race1
+bounds:1758,79,117,59
+leg_L_1_ribbon1
+bounds:480,245,25,36
+offsets:1,1,27,38
+leg_L_1_ribbon2
+bounds:1353,101,21,30
+offsets:1,1,23,32
+leg_L_1_ribbon3
+bounds:695,53,14,51
+leg_L_1_ribbon4
+bounds:1594,89,16,43
+leg_L_a1
+bounds:2,163,136,638
+rotate:90
+leg_R_1_race back1
+bounds:719,32,123,52
+leg_R_1_race1
+bounds:963,240,125,59
+leg_R_1_ribbon_1
+bounds:2013,169,23,33
+offsets:1,1,26,35
+leg_R_1_ribbon_2
+bounds:864,148,23,32
+offsets:1,1,25,34
+leg_R_1_ribbon_3
+bounds:171,48,23,49
+leg_R_1_ribbon_4
+bounds:1407,50,30,39
+leg_R_a1
+bounds:605,113,186,652
+rotate:270
+mouth
+bounds:852,284,22,15
+offsets:1,1,24,17
+skirt_1
+bounds:1520,125,228,174
+rotate:180
+skirt_2
+bounds:507,86,87,122
+rotate:90
+skirt_3
+bounds:453,54,129,124
+rotate:180
+skrit_back1
+bounds:919,100,75,129
+offsets:5,0,80,129
+rotate:90
+skrit_back2
+bounds:1864,78,115,113
+upper Ribbon_1
+bounds:894,268,64,31
+upper Ribbon_2
+bounds:878,55,24,42
+upper Ribbon_3
+bounds:155,161,32,42
+upper_side hair1
+bounds:1559,35,56,73
