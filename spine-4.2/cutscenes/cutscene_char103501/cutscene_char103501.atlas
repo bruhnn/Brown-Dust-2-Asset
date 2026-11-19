@@ -1,0 +1,416 @@
+cutscene_char103501.png
+size:2048,2048
+filter:Linear,Linear
+A_arm(L)_1
+bounds:98,10,94,187
+rotate:90
+A_arm(L)_2
+bounds:690,11,75,168
+rotate:90
+A_arm(L)_3
+bounds:613,245,368,901
+rotate:270
+A_arm(L)_4
+bounds:1169,1401,49,58
+A_arm(L)_5
+bounds:907,199,46,57
+offsets:0,0,47,57
+A_arm(R)_1
+bounds:1470,10,188,188
+rotate:90
+A_body_1
+bounds:755,1565,480,825
+rotate:270
+A_hair ribbon_1
+bounds:1947,922,99,102
+A_hair ribbon_3
+bounds:1816,407,88,87
+rotate:90
+A_hair ribbon_4
+bounds:479,523,87,42
+A_hair_1
+bounds:13,65,584,448
+rotate:180
+A_hair_2
+bounds:620,11,70,86
+rotate:90
+A_hair_7
+bounds:955,27,235,242
+rotate:90
+A_leg(L)_1
+bounds:1473,199,358,398
+rotate:270
+A_leg(L)_3
+bounds:1153,1230,390,893
+rotate:270
+A_leg(R) effect
+bounds:1310,305,161,134
+offsets:0,6,161,140
+A_leg(R)_1
+bounds:1582,1656,390,389
+A_leg(R)_2
+bounds:628,837,42,145
+A_leg(R)_3
+bounds:93,1023,405,914
+rotate:270
+A_shoulder
+bounds:444,83,491,160
+A_string
+bounds:554,296,151,98
+rotate:270
+B_Eyebrow
+bounds:1586,1210,96,43
+B_arm(L) A_2
+bounds:2,952,105,93
+rotate:90
+B_arm(L) A_4
+bounds:887,2002,69,43
+B_arm(L) B_4
+bounds:2,202,288,148
+rotate:180
+B_arm(R)_1
+bounds:1759,15,91,104
+rotate:90
+B_arm(R)_3
+bounds:791,1911,86,67
+rotate:270
+B_back hair ribbon_1
+bounds:558,1924,61,76
+B_back hair ribbon_2
+bounds:1630,134,81,77
+B_back hair_2
+bounds:2,1943,462,102
+B_back hair_3
+bounds:614,983,98,75
+B_bang_1
+bounds:1426,938,33,109
+B_bang_3
+bounds:525,1369,115,133
+rotate:270
+B_bang_4
+bounds:413,79,31,98
+B_bang_5
+bounds:1193,2,65,111
+rotate:270
+B_bang_6
+bounds:353,522,60,124
+rotate:90
+B_bang_7
+bounds:1713,1226,48,84
+offsets:0,0,48,85
+rotate:90
+B_bang_8
+bounds:1261,2002,43,77
+rotate:90
+B_belt_2
+bounds:448,724,81,53
+B_breast_L_1
+bounds:609,1842,164,181
+rotate:90
+B_breast_R_1
+bounds:1383,789,129,158
+rotate:90
+B_breast_acc_L_1
+bounds:1007,1213,119,143
+rotate:270
+B_dress_2
+bounds:1969,1889,156,66
+rotate:90
+B_ear
+bounds:1312,1465,43,47
+offsets:0,1,43,48
+B_eye line_1
+bounds:620,1981,24,26
+B_eye line_2
+bounds:1340,2019,39,26
+B_eye_1
+bounds:466,2017,14,28
+B_eye_2
+bounds:1636,2020,20,25
+B_eye_3
+bounds:1933,2005,28,40
+B_eye_4
+bounds:569,1863,40,40
+B_face
+bounds:1024,554,177,208
+B_hair band_1
+bounds:222,2019,114,26
+B_hair band_2
+bounds:19,143,101,77
+B_hair_2
+bounds:2,363,82,146
+B_headdress_1
+bounds:1192,677,42,85
+B_headdress_2
+bounds:1062,1349,86,96
+B_leg(R)_1
+bounds:167,1873,111,88
+B_leg(R)_2
+bounds:2,1605,167,358
+B_leg(R)_4
+bounds:1581,1982,53,63
+B_lower body_1
+bounds:1849,14,197,133
+B_lower body_2
+bounds:1805,734,241,199
+B_mouth
+bounds:1084,2015,30,30
+B_pocket
+bounds:2004,1592,42,75
+offsets:0,0,42,76
+B_side hair_2
+bounds:1117,1995,142,50
+B_string_2
+bounds:1167,1986,64,28
+B_weapon_1
+bounds:691,916,229,105
+C_arm(L)_2
+bounds:1461,795,585,480
+rotate:180
+C_arm(L)_3
+bounds:2,1406,197,133
+rotate:270
+C_arm(L)_4
+bounds:1109,20,399,348
+rotate:180
+C_arm(R)_1
+bounds:1365,1079,166,202
+rotate:90
+C_arm(R)_2
+bounds:1666,33,380,349
+C_arm(R)_3
+bounds:2,786,158,153
+C_back hair_2
+bounds:1864,1630,241,182
+rotate:90
+C_body_1
+bounds:263,565,278,212
+C_body_2
+bounds:150,1364,604,604
+rotate:180
+C_breast_1
+bounds:657,1320,429,276
+C_breast_3
+bounds:2,779,618,411
+rotate:180
+C_breast_4
+bounds:907,764,464,517
+rotate:90
+C_ear
+bounds:1582,1611,79,142
+rotate:90
+C_eye line_1
+bounds:1346,1504,102,66
+C_eye line_2
+bounds:294,1985,73,60
+C_face
+bounds:550,422,472,510
+C_face_shadow
+bounds:1072,1409,339,233
+offsets:4,0,357,234
+rotate:180
+C_hair band_2
+bounds:462,1966,445,79
+rotate:180
+C_hair ribbon_1
+bounds:874,7,92,110
+rotate:90
+C_hair ribbon_2
+bounds:722,1556,60,80
+C_hair_2
+bounds:1035,528,65,204
+rotate:270
+C_hand_5
+bounds:756,1599,128,129
+rotate:90
+C_leg
+bounds:2,343,349,438
+C_side hair_1
+bounds:299,17,320,105
+C_side hair_3
+bounds:2012,1252,34,77
+C_weapon_1
+bounds:1236,386,394,810
+rotate:90
+C_weapon_2
+bounds:2,1209,195,84
+rotate:90
+eye_1
+bounds:100,1556,48,54
+eye_2
+bounds:2,1163,45,51
+hand_1
+bounds:295,291,59,85
+hand_2
+bounds:620,1378,73,43
+hand_3
+bounds:117,1433,83,50
+hand_5
+bounds:470,1367,54,47
+offsets:0,0,54,48
+
+cutscene_char103501_2.png
+size:2048,2048
+filter:Linear,Linear
+A_arm(R)_2
+bounds:2,1181,246,689
+rotate:90
+A_arm(R)_3
+bounds:306,526,189,112
+A_belt
+bounds:75,340,487,147
+A_body_2
+bounds:45,931,170,268
+rotate:90
+A_dress A_1
+bounds:674,1163,446,264
+A_dress B_1
+bounds:1481,801,325,276
+A_dress B_2
+bounds:2,1065,429,209
+A_hair ribbon_2
+bounds:1350,776,132,130
+A_hair_3
+bounds:1403,948,147,116
+A_hair_4
+bounds:2,1213,139,95
+A_hair_5
+bounds:1688,41,131,126
+A_hair_6
+bounds:1286,1140,104,125
+A_leg(L)_2
+bounds:1705,207,257,169
+rotate:180
+A_leg(R)_4
+bounds:521,425,202,294
+rotate:90
+A_weapon
+bounds:2,771,1585,656
+B_arm(L) A_1
+bounds:799,1168,96,84
+B_arm(L) A_3
+bounds:318,182,291,187
+B_arm(L) B_1
+bounds:1930,1343,104,84
+B_arm(L) B_2
+bounds:1549,740,119,95
+B_arm(L) B_3
+bounds:1655,713,162,175
+B_arm(R)_2
+bounds:466,88,148,213
+rotate:90
+B_back hair_1
+bounds:898,1197,94,86
+B_bang_2
+bounds:790,7,107,196
+rotate:90
+B_belt_1
+bounds:953,249,200,140
+rotate:180
+B_body_2
+bounds:1819,661,227,344
+B_breast_acc_1
+bounds:2,433,118,112
+B_breast_acc_R_1
+bounds:2,922,104,88
+B_dress_1
+bounds:764,947,268,128
+B_hair_1
+bounds:1112,1062,149,79
+B_hair_3
+bounds:1122,1308,52,119
+B_leg(L)_1
+bounds:1276,974,316,354
+B_leg(L)_2
+bounds:1140,462,339,351
+rotate:270
+B_leg(R)_3
+bounds:1000,862,367,271
+B_side hair_1
+bounds:1340,629,169,112
+B_string_1
+bounds:1284,6,189,95
+B_weapon_2
+bounds:645,571,1401,413
+B_weapon_3
+bounds:588,296,373,149
+C_Eyebrow
+bounds:600,48,212,134
+C_arm(L)_1
+bounds:1510,1047,307,380
+C_arm(L)_5
+bounds:1168,1324,190,103
+C_back hair_1
+bounds:1758,979,288,345
+C_back hair_3
+bounds:315,96,178,138
+C_bang_1
+bounds:1875,4,195,171
+rotate:90
+C_bang_10
+bounds:867,38,230,147
+C_bang_11
+bounds:571,184,273,224
+C_bang_12
+bounds:2,167,314,286
+C_bang_2
+bounds:1059,132,182,291
+rotate:90
+C_bang_3
+bounds:846,183,148,421
+rotate:90
+C_bang_4
+bounds:935,454,370,393
+C_bang_5
+bounds:75,51,443,165
+C_bang_6
+bounds:336,1007,187,224
+rotate:90
+C_bang_7
+bounds:1536,35,170,227
+rotate:90
+C_bang_8
+bounds:1820,113,158,226
+rotate:90
+C_bang_9
+bounds:1102,5,251,282
+rotate:270
+C_breast_2
+bounds:1292,198,317,280
+C_hair band_1
+bounds:525,2,343,239
+C_hair_1
+bounds:1353,95,351,180
+C_hair_3
+bounds:2,58,216,253
+rotate:180
+C_hand_1
+bounds:348,601,254,284
+C_hand_2
+bounds:2,546,223,161
+rotate:90
+C_hand_3
+bounds:1478,452,203,357
+rotate:270
+C_hand_4
+bounds:146,475,203,352
+C_head dress_1
+bounds:411,1323,104,258
+rotate:90
+C_head dress_2
+bounds:1932,312,110,259
+C_mouth
+bounds:1815,1317,113,110
+C_side hair_2
+bounds:1542,317,412,258
+C_weapon_3
+bounds:536,499,566,456
+C_weapon_4
+bounds:817,337,464,217
+eye_3
+bounds:994,1245,106,105
+eye_4
+bounds:558,1079,105,105
+hand_4
+bounds:694,705,185,198
+rotate:90
